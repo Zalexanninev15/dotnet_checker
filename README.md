@@ -1,5 +1,7 @@
 # dotnet_checker
 
+<img src="https://raw.githubusercontent.com/Zalexanninev15/dotnet_checker/main/logo.png" width="128" height="128">
+
 [![](https://img.shields.io/badge/OS-Windows-informational?logo=windows)](https://github.com/Zalexanninev15/dotnet_checker)
 [![](https://img.shields.io/badge/written_on-Rust-000000.svg?logo=rust)](https://github.com/Zalexanninev15/dotnet_checker)
 [![](https://img.shields.io/github/v/release/Zalexanninev15/dotnet_checker)](https://github.com/Zalexanninev15/dotnet_checker/releases/latest)
