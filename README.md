@@ -2,6 +2,8 @@
 
 [![](https://img.shields.io/badge/OS-Windows-informational?logo=windows)](https://github.com/Zalexanninev15/dotnet_checker)
 [![](https://img.shields.io/badge/written_on-Rust-000000.svg?logo=rust)](https://github.com/Zalexanninev15/dotnet_checker)
+[![](https://img.shields.io/github/v/release/Zalexanninev15/dotnet_checker)](https://github.com/Zalexanninev15/dotnet_checker/releases/latest)
+[![](https://img.shields.io/github/downloads/Zalexanninev15/dotnet_checker/total.svg)](https://github.com/Zalexanninev15/dotnet_checker/releases)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/dotnet_checker/main.svg)](https://github.com/Zalexanninev15/dotnet_checker/commits/main)
 [![](https://img.shields.io/github/stars/Zalexanninev15/dotnet_checker.svg)](https://github.com/Zalexanninev15/dotnet_checker/stargazers)
 [![](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
