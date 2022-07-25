@@ -1,4 +1,4 @@
-# dotnet_checker
+# Universal .NET components checker
 
 <img src="https://raw.githubusercontent.com/Zalexanninev15/dotnet_checker/main/logo.png" width="128" height="128">
 
