@@ -16,6 +16,7 @@ Universal .NET-components checker for Windows
 
 ## Features
 - Checks all types of installed .NET components: .NET Framework, .NET Core, and .NET
+- Outputs quite detailed information, even on installed SDKs!
 - Compiled in such a way as to have no dependencies
 
 ## System requirements
