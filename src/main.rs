@@ -8,7 +8,7 @@ mod windows;
 
 fn main() {
     winconsole::console::set_title("Universal .NET components checker").unwrap();
-    println!("Universal .NET components checker v1.0 by Zalexanninev15\n");
+    println!("Universal .NET components checker v1.0 by Zalexanninev15\nGitHub: https://github.com/Zalexanninev15/dotnet_checker\n");
     if windows::is_app_elevated() {
         println!("Default version of .NET:");
         dotnet_check("--version");
