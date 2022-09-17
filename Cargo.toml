@@ -21,4 +21,3 @@ try-catch = "0.2.2"
 strip = true
 opt-level = "z"
 lto = true
-codegen-units = 1
