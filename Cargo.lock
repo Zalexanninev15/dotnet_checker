@@ -10,7 +10,7 @@ checksum = "c53dfa917ec274df8ed3c572698f381a24eef2efba9492d797301b72b6db408a"
 
 [[package]]
 name = "dotnet_checker"
-version = "1.0.0"
+version = "1.0.1"
 dependencies = [
  "execute",
  "press-btn-continue",
