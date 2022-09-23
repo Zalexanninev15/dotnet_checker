@@ -25,7 +25,7 @@ Universal .NET-components checker for Windows
 
 ## Build (with PowerShell)
 
-1. Install all dependencies (it is recommended to use packages from the [Chocolatey package manager](https://chocolatey.org)) as Admin
+1. Install all dependencies as Admin (it is recommended to use packages from the [Chocolatey package manager](https://chocolatey.org))
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 choco install rust mingw git -y
