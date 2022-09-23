@@ -22,3 +22,19 @@ Universal .NET-components checker for Windows
 ## System requirements
 
 * **OS:** Windows 7 or higher
+
+## Build (with PowerShell)
+
+1. Install all dependencies (it is recommended to use packages from the [Chocolatey package manager](https://chocolatey.org)) as Admin
+```powershell
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+choco install rust mingw git -y
+```
+
+2. Compile the Universal .NET components checker!
+
+```powershell
+git clone https://github.com/Zalexanninev15/dotnet_checker
+cd .\dotnet_checker\
+cargo build --release
+```
