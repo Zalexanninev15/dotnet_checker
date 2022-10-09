@@ -1,4 +1,4 @@
-# Universal .NET components checker
+# Universal .NET components checker | [Latest release](https://github.com/Zalexanninev15/dotnet_checker/releases/latest)
 
 <img src="https://raw.githubusercontent.com/Zalexanninev15/dotnet_checker/main/logo.png" width="128" height="128">
 
